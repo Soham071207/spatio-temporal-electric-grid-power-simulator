@@ -1,0 +1,709 @@
+{
+    "18WABO1-12345-0X": {
+        "name": "ABOÑO 1",
+        "tech_code": "B05",
+        "lat": 43.5577345,
+        "lon": -5.7229707,
+        "address": "Aboño, Carrió, Carreño, Asturias / Asturies, 33492, España"
+    },
+    "18WABO2-12345-0N": {
+        "name": "ABOÑO 2",
+        "tech_code": "B05",
+        "lat": 43.5577345,
+        "lon": -5.7229707,
+        "address": "Aboño, Carrió, Carreño, Asturias / Asturies, 33492, España"
+    },
+    "18WACE3-12345-00": {
+        "name": "ACECA 3",
+        "tech_code": "B04",
+        "lat": 39.9450794,
+        "lon": -3.8545455,
+        "address": "Central Térmica de Aceca, Villaseca de la Sagra, Toledo, Castilla-La Mancha, España"
+    },
+    "18WACE4-12345-0R": {
+        "name": "ACECA4",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WDUER-12345-0N": {
+        "name": "ALDEA I G1",
+        "tech_code": "B12",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WDUEB-12345-0Z": {
+        "name": "ALDEA IIB1",
+        "tech_code": "B10",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WALG3-12345--K": {
+        "name": "ALG3TG1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WALZ1-12345-0E": {
+        "name": "ALMARAZ 1",
+        "tech_code": "B14",
+        "lat": 41.5014132,
+        "lon": -5.7551809,
+        "address": "Escuela Infantil Bambi Zamora, 1, Calle de Almaraz, Espíritu Santo, Zamora, Castilla y León, 49026, España"
+    },
+    "18WALZ2-12345-04": {
+        "name": "ALMARAZ 2",
+        "tech_code": "B14",
+        "lat": 40.9689892,
+        "lon": -5.6502979,
+        "address": "2, Calle del Cardenal Almaraz, Rollo, Salamanca, Castilla y León, 37003, España"
+    },
+    "18WAMBIETA-12-0S": {
+        "name": "AMBITG1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WALL1-12345-0K": {
+        "name": "ANLLARES 1",
+        "tech_code": "B05",
+        "lat": 43.253591,
+        "lon": -8.885003,
+        "address": "Anllares, A Calle, Tella, Ponteceso, Bergantiños, A Coruña, Galicia, 15110, España"
+    },
+    "18WARCOS3-123-0Z": {
+        "name": "ARC3TG1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WARCOS1-123-0E": {
+        "name": "ARCOS1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WARCOS2-123-06": {
+        "name": "ARCOS2",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WASC1-12345-0Z": {
+        "name": "ASCO 1",
+        "tech_code": "B14",
+        "lat": 40.8251861,
+        "lon": 0.5111796,
+        "address": "1, Carrer d'Ascó, Jesús, Tortosa, Baix Ebre, Tarragona, Catalunya, 43590, España"
+    },
+    "18WASC2-12345-0P": {
+        "name": "ASCO 2",
+        "tech_code": "B14",
+        "lat": 41.1805311,
+        "lon": 0.5679989,
+        "address": "Ascó, Ribera d'Ebre, Tarragona, Catalunya, 43791, España"
+    },
+    "18WBAHIAB-123-0X": {
+        "name": "BAHITG1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WBRR1-12345-0H": {
+        "name": "BARRIOS",
+        "tech_code": "B05",
+        "lat": 41.6193974,
+        "lon": -3.4845158,
+        "address": "La Vid y Barrios, Burgos, Castilla y León, España"
+    },
+    "18WUFMI-12345-0L": {
+        "name": "BELESAR 1",
+        "tech_code": "B12",
+        "lat": 42.5371592,
+        "lon": -7.550011,
+        "address": "1, Estrada Monforte - Belesar, A Estrada do Eivedo, O Eivedo, Seoane, Monforte de Lemos, Terra de Lemos, Lugo, Galicia, 27590, España"
+    },
+    "18WBES5-123456-T": {
+        "name": "BES5 TG1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WBES3-12345-0V": {
+        "name": "BESOS 3",
+        "tech_code": "B04",
+        "lat": 41.6093506,
+        "lon": 0.6270522,
+        "address": "Omda Kebab, 3, Carrer del Riu Besòs, Cappont, Lleida, Segrià, Lleida, Catalunya, 25001, España"
+    },
+    "18WBES4-12345-0L": {
+        "name": "BESOS 4",
+        "tech_code": "B04",
+        "lat": 41.4218828,
+        "lon": 2.1452608,
+        "address": "4, Carrer del Besòs, la Teixonera, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08035, España"
+    },
+    "18WCAMGI10-12-07": {
+        "name": "CAMPGIB1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WCAMGI20--1-0D": {
+        "name": "CAMPGIB2",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WCTGN1-1234-0C": {
+        "name": "CARTAGENA1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WCTGN2-1234-03": {
+        "name": "CARTAGENA2",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WCTGN3-1234-0V": {
+        "name": "CARTAGENA3",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WCTJON1-123-06": {
+        "name": "CASTEJON 1",
+        "tech_code": "B04",
+        "lat": 41.6178623,
+        "lon": 0.6315972,
+        "address": "1, Carrer de Ramon Castejón, Rambla de Ferran - Estació, Lleida, Segrià, Lleida, Catalunya, 25007, España"
+    },
+    "18WCTJON2-123-0Z": {
+        "name": "CASTEJON 2",
+        "tech_code": "B04",
+        "lat": 41.6576365,
+        "lon": -0.8616945,
+        "address": "2, Calle de Enriqueta Castejón, Vadorrey, El Rabal, Zaragoza, Aragón, 50014, España"
+    },
+    "18WTAJO-12345-0U": {
+        "name": "CEDILLO 1",
+        "tech_code": "B12",
+        "lat": 39.6517708,
+        "lon": -7.5001622,
+        "address": "Cedillo, Cáceres, Extremadura, 10513, España"
+    },
+    "18WCOF1-12345-0O": {
+        "name": "COFRENTES",
+        "tech_code": "B14",
+        "lat": 39.2299883,
+        "lon": -1.0619387,
+        "address": "Cofrentes, El Valle de Cofrentes-Ayora, València / Valencia, Comunitat Valenciana, 46625, España"
+    },
+    "18WCOL4-12345-02": {
+        "name": "COLON 4",
+        "tech_code": "B04",
+        "lat": 40.4249426,
+        "lon": -3.6898769,
+        "address": "Papúa, 4, Plaza de Colón, Recoletos, Salamanca, Madrid, Comunidad de Madrid, 28001, España"
+    },
+    "18WCOM4-12345-0S": {
+        "name": "COMPOSTI 4",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WCOM5-12345-0I": {
+        "name": "COMPOSTI 5",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WJUCA-12345-0Q": {
+        "name": "CORTES 1",
+        "tech_code": "B12",
+        "lat": 40.4164424,
+        "lon": -3.6970343,
+        "address": "Congreso de los Diputados, 1, Plaza de las Cortes, Barrio de las Letras, Cortes, Centro, Madrid, Comunidad de Madrid, 28014, España"
+    },
+    "18WCCO2-12345-0M": {
+        "name": "CTCOMPO 2",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WCCO3-12345-0C": {
+        "name": "CTCOMPO 3",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WCTJON3--1234S": {
+        "name": "CTJON3",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WCTN3-12345-04": {
+        "name": "CTN3TG1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WCTN4-123456-C": {
+        "name": "CTN4TG1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WCTNU-12345-0U": {
+        "name": "CTNUTG1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WECT3-123456-N": {
+        "name": "ECT3TG1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WELC1-12345-0U": {
+        "name": "ELCOGAS",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WESC6-12345-07": {
+        "name": "ESC6TG1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WESCCC1-123-0T": {
+        "name": "ESCCC1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WESCCC2-123-0L": {
+        "name": "ESCCC2",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WESCCC3-123-0D": {
+        "name": "ESCCC3",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WFOI1-12345-0Q": {
+        "name": "FOIX",
+        "tech_code": "B04",
+        "lat": 41.1993994,
+        "lon": 1.6756098,
+        "address": "Foix, Cubelles, Garraf, Barcelona, Catalunya, 08880, España"
+    },
+    "18WGUA1-12345-0T": {
+        "name": "GUARDO 1",
+        "tech_code": "B05",
+        "lat": 42.7895455,
+        "lon": -4.846288,
+        "address": "Guardo, Palencia, Castilla y León, 34880, España"
+    },
+    "18WGUA2-12345-0J": {
+        "name": "GUARDO 2",
+        "tech_code": "B05",
+        "lat": 42.7895455,
+        "lon": -4.846288,
+        "address": "Guardo, Palencia, Castilla y León, 34880, España"
+    },
+    "18WLAD4-12345-0U": {
+        "name": "LADA IV",
+        "tech_code": "B05",
+        "lat": 43.2963784,
+        "lon": -5.7138417,
+        "address": "Lada, Langreo, Asturias / Asturies, España"
+    },
+    "18WLIT1-12345-0A": {
+        "name": "LITORAL 1",
+        "tech_code": "B05",
+        "lat": 41.3640347,
+        "lon": 2.1705922,
+        "address": "1-3, Ronda Litoral, la Marina del Prat Vermell, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08039, España"
+    },
+    "18WLIT2-12345-00": {
+        "name": "LITORAL 2",
+        "tech_code": "B05",
+        "lat": 36.7194711,
+        "lon": -4.419693,
+        "address": "2, Calle Litoral, Centro Histórico, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España"
+    },
+    "18WMALA1-12345-L": {
+        "name": "MALA1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WMEI1-12345-0I": {
+        "name": "MEIRAMA",
+        "tech_code": "B05",
+        "lat": 43.2134233,
+        "lon": -8.4414004,
+        "address": "Meirama, Cerceda, Ordes, A Coruña, Galicia, España"
+    },
+    "18WMUEB-12345-0T": {
+        "name": "MUELA 1B",
+        "tech_code": "B10",
+        "lat": 40.8749082,
+        "lon": -0.0639709,
+        "address": "1B, Calle Bajo Muela / Carrer de Sota Muela, Belmonte de San José / Bellmunt de Mesquí, Bajo Aragón, Teruel, Aragón, 44642, España"
+    },
+    "18WMUEL-12345-03": {
+        "name": "MUELA 1G",
+        "tech_code": "B12",
+        "lat": 41.9659147,
+        "lon": -3.0657415,
+        "address": "Muela;La Muela de Vilviestre del Pinar, Vilviestre del Pinar, Burgos, Castilla y León, 09690, España"
+    },
+    "18WNRC2-12345-0G": {
+        "name": "NARCEA 2",
+        "tech_code": "B05",
+        "lat": 43.5478177,
+        "lon": -5.9013979,
+        "address": "2, Calle Rio Narcea, Llaranes, Avilés, Asturias / Asturies, 33460, España"
+    },
+    "18WNRC3-12345-06": {
+        "name": "NARCEA 3",
+        "tech_code": "B05",
+        "lat": 40.4293509,
+        "lon": -3.6310908,
+        "address": "3, Calle Cangas de Narcea, Simancas, San Blas - Canillejas, Madrid, Comunidad de Madrid, 28037, España"
+    },
+    "18WPGR1-12345-04": {
+        "name": "P.G.RODR 1",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WPGR2-12345-0V": {
+        "name": "P.G.RODR 2",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WPGR3-12345-0L": {
+        "name": "P.G.RODR 3",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WPGR4-12345-0B": {
+        "name": "P.G.RODR 4",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WPNN3-12345-0I": {
+        "name": "P.NUEVO 3",
+        "tech_code": "B05",
+        "lat": 36.1040041,
+        "lon": -5.4500161,
+        "address": "Nuevo San García 3, San García-Getares, Algeciras, Campo de Gibraltar, Cádiz, Andalucía, España"
+    },
+    "18WPALOS2-123-0R": {
+        "name": "PALOS 2",
+        "tech_code": "B04",
+        "lat": 38.8896936,
+        "lon": -6.9765136,
+        "address": "2, Calle Puente de Palos, Santa Engracia, Badajoz, Extremadura, 06007, España"
+    },
+    "18WPALOS3-123-0J": {
+        "name": "PALOS 3",
+        "tech_code": "B04",
+        "lat": 40.9523101,
+        "lon": -5.6682325,
+        "address": "3, Calle Palos de la Frontera, La Vega, Salamanca, Castilla y León, 37008, España"
+    },
+    "18WPALOS1-123-0Z": {
+        "name": "PALOS1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WPBCN1-12345-D": {
+        "name": "PBCN1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WPBCN2-12345-4": {
+        "name": "PBCN2",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WPGR5-123456-J": {
+        "name": "PGR5TG1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WPLL1-12345-0A": {
+        "name": "PTOLLANO",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WPVENT1--1234A": {
+        "name": "PVENT1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WPVENT2--12342": {
+        "name": "PVENT2",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WROB1-12345-0L": {
+        "name": "ROBLA 1",
+        "tech_code": "B05",
+        "lat": 40.4830302,
+        "lon": -3.6361487,
+        "address": "1, Calle de La Robla, Las Cárcavas - San Antonio, Valdefuentes, Hortaleza, Madrid, Comunidad de Madrid, 28055, España"
+    },
+    "18WROB2-12345-0B": {
+        "name": "ROBLA 2",
+        "tech_code": "B05",
+        "lat": 40.4829217,
+        "lon": -3.6361693,
+        "address": "2, Calle de La Robla, Las Cárcavas - San Antonio, Valdefuentes, Hortaleza, Madrid, Comunidad de Madrid, 28055, España"
+    },
+    "18WSIL-123456-0G": {
+        "name": "S.EST IIG1",
+        "tech_code": "B12",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WGAR1-12345-08": {
+        "name": "S.M.GAROÑA",
+        "tech_code": "B14",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WSROQ1-1234-06": {
+        "name": "S.ROQUE 1",
+        "tech_code": "B04",
+        "lat": 42.3485482,
+        "lon": -3.6806332,
+        "address": "San Roque 1, Calle San Roque, Polígono Docente, Polígono Río Vena, Distrito Centro Norte, Burgos, Castilla y León, 09071, España"
+    },
+    "18WSROQ2-1234-0Y": {
+        "name": "S.ROQUE 2",
+        "tech_code": "B04",
+        "lat": 42.3485449,
+        "lon": -3.6799571,
+        "address": "San Roque 2, Calle San Roque, Polígono Docente, Polígono Río Vena, Distrito Centro Norte, Burgos, Castilla y León, 09071, España"
+    },
+    "18WSAGU1-123--0J": {
+        "name": "SAGU1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WSAGU2-123--0A": {
+        "name": "SAGU2",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WSAGU3-123--01": {
+        "name": "SAGU3",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WSLTB-12345-05": {
+        "name": "SALLENT 1B",
+        "tech_code": "B10",
+        "lat": 41.8390397,
+        "lon": 1.9081612,
+        "address": "Sallent, Bages, Barcelona, Catalunya, 08650, España"
+    },
+    "18WSLTG-12345-0T": {
+        "name": "SALLENT 1G",
+        "tech_code": "B12",
+        "lat": 41.8390397,
+        "lon": 1.9081612,
+        "address": "Sallent, Bages, Barcelona, Catalunya, 08650, España"
+    },
+    "18WSTC4-12345-0I": {
+        "name": "SANTURCE 4",
+        "tech_code": "B04",
+        "lat": 40.4250882,
+        "lon": -3.6400653,
+        "address": "4, Calle de Santurce, Pueblo Nuevo, Ciudad Lineal, Madrid, Comunidad de Madrid, 28017, España"
+    },
+    "18WSBO3-12345-01": {
+        "name": "SBO3",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WSRI5-123456-L": {
+        "name": "SOTO 5",
+        "tech_code": "B04",
+        "lat": 40.7617526,
+        "lon": -3.785498,
+        "address": "5, Soto del Real, Comunidad de Madrid, España"
+    },
+    "18WSRI2-12345-0X": {
+        "name": "SOTO RIB 2",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WSRI3-12345-0N": {
+        "name": "SOTO RIB 3",
+        "tech_code": "B05",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18W18WSRI4--123V": {
+        "name": "SRI4",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WTJEB-12345-0X": {
+        "name": "TAJOENC 1B",
+        "tech_code": "B10",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WTAPOWER-12-0V": {
+        "name": "TAPOWER",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WTARRAG-123-03": {
+        "name": "TARRAG",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WTER1-12345-0D": {
+        "name": "TERUEL 1",
+        "tech_code": "B02",
+        "lat": 41.0531948,
+        "lon": -0.1326458,
+        "address": "1, Urbanización Santa Maria, Alcañiz, Bajo Aragón, Teruel, Aragón, 44600, España"
+    },
+    "18WTER2-12345-03": {
+        "name": "TERUEL 2",
+        "tech_code": "B02",
+        "lat": 41.0534575,
+        "lon": -0.132697,
+        "address": "2, Urbanización Santa Maria, Alcañiz, Bajo Aragón, Teruel, Aragón, 44600, España"
+    },
+    "18WTER3-12345-0U": {
+        "name": "TERUEL 3",
+        "tech_code": "B02",
+        "lat": 41.053361,
+        "lon": -0.1329101,
+        "address": "3, Urbanización Santa Maria, Alcañiz, Bajo Aragón, Teruel, Aragón, 44600, España"
+    },
+    "18WTRL1-12345-0Y": {
+        "name": "TRILLO",
+        "tech_code": "B14",
+        "lat": 40.7014301,
+        "lon": -2.5930177,
+        "address": "Trillo, Guadalajara, Castilla-La Mancha, 19450, España"
+    },
+    "18WARRU1-1234-0J": {
+        "name": "UFARRU1",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "18WARRU2-1234-0A": {
+        "name": "UFARRU2",
+        "tech_code": "B04",
+        "lat": null,
+        "lon": null,
+        "address": null
+    },
+    "UNKNOWN": {
+        "name": "UNKNOWN",
+        "tech_code": "B02",
+        "lat": 39.543762,
+        "lon": 2.7237202,
+        "address": "(unknown), Ma-6012, Platja de Palma i Pla de Sant Jordi, Can Pastilla, Districte de Platja de Palma i Pla de Sant Jordi, Palma, Illes Balears, 07610, España"
+    },
+    "18WVAN2-12345-0W": {
+        "name": "VANDELLOS",
+        "tech_code": "B14",
+        "lat": 40.9985238,
+        "lon": 0.8493534,
+        "address": "Vandellòs i l'Hospitalet de l'Infant, Baix Camp, Tarragona, Catalunya, España"
+    }
+}
