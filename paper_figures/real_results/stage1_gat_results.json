@@ -1,0 +1,273 @@
+{
+  "model": "GATForecaster (best_gat_regional.pth)",
+  "checkpoint": {
+    "epoch": 12,
+    "best_val_loss": 0.117825
+  },
+  "overall": {
+    "MAE_MW": 191.34,
+    "RMSE_MW": 359.72,
+    "MAPE_pct": 14.869,
+    "R2": 0.9553,
+    "n_test_samples": 9573,
+    "n_nodes": 19,
+    "inference_sec": 21.06
+  },
+  "per_node": {
+    "Andaluc\u00eda": {
+      "MAE_MW": 616.35,
+      "RMSE_MW": 857.5,
+      "MAPE_pct": 16.184,
+      "R2": 0.8169,
+      "mean_demand_mw": 4716.92
+    },
+    "Arag\u00f3n": {
+      "MAE_MW": 159.21,
+      "RMSE_MW": 213.71,
+      "MAPE_pct": 15.942,
+      "R2": 0.8296,
+      "mean_demand_mw": 1230.99
+    },
+    "Cantabria": {
+      "MAE_MW": 52.65,
+      "RMSE_MW": 71.53,
+      "MAPE_pct": 15.09,
+      "R2": 0.8132,
+      "mean_demand_mw": 427.54
+    },
+    "Castilla la Mancha": {
+      "MAE_MW": 171.91,
+      "RMSE_MW": 230.33,
+      "MAPE_pct": 15.312,
+      "R2": 0.8466,
+      "mean_demand_mw": 1396.68
+    },
+    "Castilla y Le\u00f3n": {
+      "MAE_MW": 197.75,
+      "RMSE_MW": 261.95,
+      "MAPE_pct": 16.345,
+      "R2": 0.8204,
+      "mean_demand_mw": 1519.64
+    },
+    "Catalu\u00f1a": {
+      "MAE_MW": 640.31,
+      "RMSE_MW": 856.62,
+      "MAPE_pct": 15.422,
+      "R2": 0.8398,
+      "mean_demand_mw": 5165.49
+    },
+    "Pa\u00eds Vasco": {
+      "MAE_MW": 212.8,
+      "RMSE_MW": 290.42,
+      "MAPE_pct": 15.668,
+      "R2": 0.8221,
+      "mean_demand_mw": 1651.52
+    },
+    "Principado de Asturias": {
+      "MAE_MW": 122.29,
+      "RMSE_MW": 162.51,
+      "MAPE_pct": 15.922,
+      "R2": 0.8229,
+      "mean_demand_mw": 947.53
+    },
+    "Comunidad de Ceuta": {
+      "MAE_MW": 2.17,
+      "RMSE_MW": 3.03,
+      "MAPE_pct": 11.321,
+      "R2": 0.8587,
+      "mean_demand_mw": 23.33
+    },
+    "Comunidad de Melilla": {
+      "MAE_MW": 2.41,
+      "RMSE_MW": 3.39,
+      "MAPE_pct": 11.345,
+      "R2": 0.8741,
+      "mean_demand_mw": 25.77
+    },
+    "Comunidad de Madrid": {
+      "MAE_MW": 431.87,
+      "RMSE_MW": 575.09,
+      "MAPE_pct": 17.017,
+      "R2": 0.848,
+      "mean_demand_mw": 3319.65
+    },
+    "Comunidad de Navarra": {
+      "MAE_MW": 69.55,
+      "RMSE_MW": 95.11,
+      "MAPE_pct": 16.109,
+      "R2": 0.8132,
+      "mean_demand_mw": 530.59
+    },
+    "Comunidad Valenciana": {
+      "MAE_MW": 330.17,
+      "RMSE_MW": 445.63,
+      "MAPE_pct": 12.671,
+      "R2": 0.8521,
+      "mean_demand_mw": 3166.41
+    },
+    "Extremadura": {
+      "MAE_MW": 71.87,
+      "RMSE_MW": 95.24,
+      "MAPE_pct": 15.92,
+      "R2": 0.8466,
+      "mean_demand_mw": 573.01
+    },
+    "Galicia": {
+      "MAE_MW": 237.54,
+      "RMSE_MW": 319.2,
+      "MAPE_pct": 17.336,
+      "R2": 0.7342,
+      "mean_demand_mw": 1576.1
+    },
+    "Islas Baleares": {
+      "MAE_MW": 79.1,
+      "RMSE_MW": 110.58,
+      "MAPE_pct": 13.399,
+      "R2": 0.8766,
+      "mean_demand_mw": 711.65
+    },
+    "Islas Canarias": {
+      "MAE_MW": 83.01,
+      "RMSE_MW": 112.38,
+      "MAPE_pct": 10.24,
+      "R2": 0.8956,
+      "mean_demand_mw": 1026.24
+    },
+    "La Rioja": {
+      "MAE_MW": 23.71,
+      "RMSE_MW": 32.07,
+      "MAPE_pct": 16.117,
+      "R2": 0.8064,
+      "mean_demand_mw": 176.71
+    },
+    "Regi\u00f3n de Murcia": {
+      "MAE_MW": 130.75,
+      "RMSE_MW": 176.19,
+      "MAPE_pct": 15.145,
+      "R2": 0.8348,
+      "mean_demand_mw": 1072.95
+    }
+  },
+  "horizon": {
+    "h01": {
+      "MAE_MW": 74.41,
+      "MAPE_pct": 5.409
+    },
+    "h02": {
+      "MAE_MW": 119.29,
+      "MAPE_pct": 9.007
+    },
+    "h03": {
+      "MAE_MW": 150.22,
+      "MAPE_pct": 11.431
+    },
+    "h04": {
+      "MAE_MW": 177.41,
+      "MAPE_pct": 13.505
+    },
+    "h05": {
+      "MAE_MW": 197.48,
+      "MAPE_pct": 15.104
+    },
+    "h06": {
+      "MAE_MW": 208.89,
+      "MAPE_pct": 16.128
+    },
+    "h07": {
+      "MAE_MW": 218.94,
+      "MAPE_pct": 17.049
+    },
+    "h08": {
+      "MAE_MW": 223.54,
+      "MAPE_pct": 17.495
+    },
+    "h09": {
+      "MAE_MW": 223.19,
+      "MAPE_pct": 17.479
+    },
+    "h10": {
+      "MAE_MW": 219.71,
+      "MAPE_pct": 17.149
+    },
+    "h11": {
+      "MAE_MW": 214.06,
+      "MAPE_pct": 16.691
+    },
+    "h12": {
+      "MAE_MW": 208.23,
+      "MAPE_pct": 16.24
+    },
+    "h13": {
+      "MAE_MW": 207.89,
+      "MAPE_pct": 16.206
+    },
+    "h14": {
+      "MAE_MW": 209.97,
+      "MAPE_pct": 16.277
+    },
+    "h15": {
+      "MAE_MW": 212.13,
+      "MAPE_pct": 16.359
+    },
+    "h16": {
+      "MAE_MW": 214.73,
+      "MAPE_pct": 16.534
+    },
+    "h17": {
+      "MAE_MW": 213.68,
+      "MAPE_pct": 16.528
+    },
+    "h18": {
+      "MAE_MW": 209.95,
+      "MAPE_pct": 16.367
+    },
+    "h19": {
+      "MAE_MW": 203.96,
+      "MAPE_pct": 16.042
+    },
+    "h20": {
+      "MAE_MW": 198.01,
+      "MAPE_pct": 15.646
+    },
+    "h21": {
+      "MAE_MW": 186.9,
+      "MAPE_pct": 14.678
+    },
+    "h22": {
+      "MAE_MW": 174.55,
+      "MAPE_pct": 13.665
+    },
+    "h23": {
+      "MAE_MW": 161.9,
+      "MAPE_pct": 12.809
+    },
+    "h24": {
+      "MAE_MW": 163.08,
+      "MAPE_pct": 13.051
+    }
+  },
+  "regime": {
+    "peak_demand_top10pct": {
+      "MAE_MW": 601.32,
+      "MAPE_pct": 10.856
+    },
+    "normal_hours": {
+      "MAE_MW": 145.78
+    },
+    "weekday": {
+      "MAE_MW": 222.25,
+      "MAPE_pct": 16.911,
+      "n": 1685376
+    },
+    "weekend": {
+      "MAE_MW": 165.03,
+      "MAPE_pct": 15.697,
+      "n": 1247616
+    },
+    "holiday": {
+      "MAE_MW": 168.11,
+      "MAPE_pct": 11.731,
+      "n": 2023272
+    }
+  }
+}

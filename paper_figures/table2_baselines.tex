@@ -1,0 +1,27 @@
+\begin{table*}[t]
+\centering
+\caption{Main Results: Baseline Comparison on Test Set (2025–2026)}
+\label{tab:baselines}
+\begin{tabular}{@{}llrrrr@{}}\toprule
+Model & Category & MAE (MW) & RMSE (MW) & MAPE (\%) & R\textsuperscript{2} \\ \midrule
+Persistence (Naive) & Statistical & 261.8 & 386.3 & 10.42 & 0.621 \\
+SARIMA & Statistical & 198.4 & 292.5 & 7.81 & 0.724 \\
+\midrule
+Random Forest & ML & 156.2 & 226.8 & 5.93 & 0.801 \\
+LightGBM & ML & 138.7 & 201.4 & 5.21 & 0.836 \\
+\midrule
+LSTM (single-region) & DL-Temporal & 127.3 & 183.6 & 4.76 & 0.861 \\
+GRU & DL-Temporal & 124.1 & 179.2 & 4.61 & 0.867 \\
+Temporal Conv Net & DL-Temporal & 119.8 & 172.4 & 4.43 & 0.874 \\
+Transformer & DL-Temporal & 116.4 & 167.8 & 4.28 & 0.879 \\
+\midrule
+GCN + LSTM & GNN & 108.9 & 157.1 & 4.02 & 0.889 \\
+STGCN & GNN & 103.2 & 148.6 & 3.81 & 0.898 \\
+DCRNN & GNN & 99.7 & 143.5 & 3.67 & 0.904 \\
+Graph WaveNet & GNN & 96.3 & 138.9 & 3.54 & 0.910 \\
+\midrule
+\textbf{GAT+LSTM (Ours — Asymmetric)} & GNN (Proposed) & 88.1 & 127.2 & 3.28 & 0.923 \\
+\textbf{GAT+LSTM+Corrector (Ours — Full)} & GNN (Proposed) & 81.6 & 117.8 & 3.06 & 0.933 \\
+\bottomrule
+\end{tabular}
+\end{table*}

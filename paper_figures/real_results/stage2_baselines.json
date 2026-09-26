@@ -1,0 +1,23 @@
+{
+  "baselines": {
+    "Persistence (Naive)": {
+      "MAE_MW": 226.91,
+      "RMSE_MW": 447.0,
+      "MAPE_pct": 16.525,
+      "R2": 0.931
+    },
+    "Last-Week Same-Hour": {
+      "MAE_MW": 327.55,
+      "RMSE_MW": 626.44,
+      "MAPE_pct": 22.862,
+      "R2": 0.8644
+    },
+    "Ridge Regression": {
+      "MAE_MW": 142.97,
+      "RMSE_MW": 271.1,
+      "MAPE_pct": 11.292,
+      "R2": 0.9746
+    }
+  },
+  "n_test": 9573
+}

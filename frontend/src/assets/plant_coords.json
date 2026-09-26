@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "18WUFMI-12345-0L",
+    "name": "BELESAR 1",
+    "tech": "Hydro (Run-of-River)",
+    "category": "Hydro",
+    "region": "Galicia",
+    "capacity_mw": 1490.1,
+    "lat": 43.045512158149464,
+    "lon": -9.1147870937328
+  },
+  {
+    "id": "18WCOF1-12345-0O",
+    "name": "COFRENTES",
+    "tech": "Nuclear",
+    "category": "Nuclear",
+    "region": "Comunidad Valenciana",
+    "capacity_mw": 1087.1,
+    "lat": 39.19993518204294,
+    "lon": -0.7095471142214127
+  },
+  {
+    "id": "18WVAN2-12345-0W",
+    "name": "VANDELLOS",
+    "tech": "Nuclear",
+    "category": "Nuclear",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 1051.2,
+    "lat": 41.66886545699682,
+    "lon": 2.3854393849074933
+  },
+  {
+    "id": "18WASC1-12345-0Z",
+    "name": "ASCO 1",
+    "tech": "Nuclear",
+    "category": "Nuclear",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 1045.2,
+    "lat": 41.85571548124582,
+    "lon": 1.6777265991552994
+  },
+  {
+    "id": "18WALZ2-12345-04",
+    "name": "ALMARAZ 2",
+    "tech": "Nuclear",
+    "category": "Nuclear",
+    "region": "Extremadura",
+    "capacity_mw": 1041.1,
+    "lat": 39.38690618362233,
+    "lon": -6.936443336674316
+  },
+  {
+    "id": "18WALZ1-12345-0E",
+    "name": "ALMARAZ 1",
+    "tech": "Nuclear",
+    "category": "Nuclear",
+    "region": "Extremadura",
+    "capacity_mw": 1018.0,
+    "lat": 39.14296556976433,
+    "lon": -6.365773654275966
+  },
+  {
+    "id": "18WASC2-12345-0P",
+    "name": "ASCO 2",
+    "tech": "Nuclear",
+    "category": "Nuclear",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 1014.1,
+    "lat": 40.816943163620635,
+    "lon": 1.812005180823978
+  },
+  {
+    "id": "18WTRL1-12345-0Y",
+    "name": "TRILLO",
+    "tech": "Nuclear",
+    "category": "Nuclear",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 1010.2,
+    "lat": 40.04266132533543,
+    "lon": -3.9733702232761403
+  },
+  {
+    "id": "18WROB2-12345-0B",
+    "name": "ROBLA 2",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 634.8,
+    "lat": 41.316828746448834,
+    "lon": -4.617381179348909
+  },
+  {
+    "id": "18WLAD4-12345-0U",
+    "name": "LADA IV",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Principado de Asturias",
+    "capacity_mw": 582.3,
+    "lat": 43.73271654801339,
+    "lon": -6.451501488386327
+  },
+  {
+    "id": "18WBRR1-12345-0H",
+    "name": "BARRIOS",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 564.8,
+    "lat": 37.74978310219937,
+    "lon": -5.735332726014128
+  },
+  {
+    "id": "18WABO2-12345-0N",
+    "name": "ABO\u00d1O 2",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Principado de Asturias",
+    "capacity_mw": 564.5,
+    "lat": 43.16970061982159,
+    "lon": -6.272724600225862
+  },
+  {
+    "id": "18WMEI1-12345-0I",
+    "name": "MEIRAMA",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Galicia",
+    "capacity_mw": 557.4,
+    "lat": 43.42685568664814,
+    "lon": -8.740886545864848
+  },
+  {
+    "id": "18WLIT2-12345-00",
+    "name": "LITORAL 2",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 546.2,
+    "lat": 36.894095012056184,
+    "lon": -6.457040347799843
+  },
+  {
+    "id": "18WLIT1-12345-0A",
+    "name": "LITORAL 1",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 545.9,
+    "lat": 37.79979323961695,
+    "lon": -5.848628762359731
+  },
+  {
+    "id": "18WTAJO-12345-0U",
+    "name": "CEDILLO 1",
+    "tech": "Hydro (Run-of-River)",
+    "category": "Hydro",
+    "region": "Extremadura",
+    "capacity_mw": 514.7,
+    "lat": 39.84915392792926,
+    "lon": -6.096521855967419
+  },
+  {
+    "id": "18W000000000T2JX",
+    "name": "ABO\u00d1O 2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Principado de Asturias",
+    "capacity_mw": 452.8,
+    "lat": 43.404873709745644,
+    "lon": -5.291561083224756
+  },
+  {
+    "id": "18WSRI5-123456-L",
+    "name": "SOTO 5",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Principado de Asturias",
+    "capacity_mw": 436.1,
+    "lat": 43.21564125265003,
+    "lon": -5.796851242472128
+  },
+  {
+    "id": "18WPBCN1-12345-D",
+    "name": "PBCN1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 433.5,
+    "lat": 41.780385597103596,
+    "lon": 2.315623702837095
+  },
+  {
+    "id": "18WPBCN2-12345-4",
+    "name": "PBCN2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 431.9,
+    "lat": 41.819148280372936,
+    "lon": 2.2662225743081144
+  },
+  {
+    "id": "18WCTJON3--1234S",
+    "name": "CTJON3",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Comunidad Foral de Navarra",
+    "capacity_mw": 429.6,
+    "lat": 43.05798620345791,
+    "lon": -2.1908107396132053
+  },
+  {
+    "id": "18W000000000RHV9",
+    "name": "PIZARRO",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 428.2,
+    "lat": 39.15407793078186,
+    "lon": -6.624934443677471
+  },
+  {
+    "id": "18W18WSRI4--123V",
+    "name": "SRI4",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Principado de Asturias",
+    "capacity_mw": 425.9,
+    "lat": 42.857150372308354,
+    "lon": -6.1799509363667635
+  },
+  {
+    "id": "18W000000000IB62",
+    "name": "FVORIOL",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Comunidad Valenciana",
+    "capacity_mw": 425.6,
+    "lat": 38.99110171529168,
+    "lon": -0.6438316762678895
+  },
+  {
+    "id": "18WSAGU3-123--01",
+    "name": "SAGU3",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Comunidad Valenciana",
+    "capacity_mw": 424.1,
+    "lat": 39.63272133311728,
+    "lon": -0.539601385235899
+  },
+  {
+    "id": "18WMALA1-12345-L",
+    "name": "MALA1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 424.0,
+    "lat": 37.227017160540264,
+    "lon": -6.321691563074214
+  },
+  {
+    "id": "18W000000000NXPQ",
+    "name": "PIZARRO",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 423.5,
+    "lat": 39.20097338645894,
+    "lon": -5.848214494745007
+  },
+  {
+    "id": "18WCTJON1-123-06",
+    "name": "CASTEJON 1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Comunidad Foral de Navarra",
+    "capacity_mw": 423.1,
+    "lat": 42.990142462295914,
+    "lon": -1.5148427931996142
+  },
+  {
+    "id": "18WPVENT1--1234A",
+    "name": "PVENT1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 421.2,
+    "lat": 41.257666377837715,
+    "lon": -4.449547842459581
+  },
+  {
+    "id": "18WPVENT2--12342",
+    "name": "PVENT2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 418.0,
+    "lat": 41.24838299251431,
+    "lon": -4.869153469890823
+  },
+  {
+    "id": "18WCTGN3-1234-0V",
+    "name": "CARTAGENA3",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Regi\u00f3n de Murcia",
+    "capacity_mw": 413.3,
+    "lat": 38.57962802076391,
+    "lon": -0.9627002881750886
+  },
+  {
+    "id": "18WBES4-12345-0L",
+    "name": "BESOS 4",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 412.2,
+    "lat": 41.45343969252958,
+    "lon": 2.3949371011878497
+  },
+  {
+    "id": "18WCTGN1-1234-0C",
+    "name": "CARTAGENA1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Regi\u00f3n de Murcia",
+    "capacity_mw": 410.9,
+    "lat": 38.40362230422777,
+    "lon": -0.7995001061445063
+  },
+  {
+    "id": "18WSAGU2-123--0A",
+    "name": "SAGU2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Comunidad Valenciana",
+    "capacity_mw": 408.8,
+    "lat": 39.144757686356925,
+    "lon": -0.9388797073151547
+  },
+  {
+    "id": "18WCTGN2-1234-03",
+    "name": "CARTAGENA2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Regi\u00f3n de Murcia",
+    "capacity_mw": 408.5,
+    "lat": 37.7707436576709,
+    "lon": -1.4094109488291569
+  },
+  {
+    "id": "18WSAGU1-123--0J",
+    "name": "SAGU1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Comunidad Valenciana",
+    "capacity_mw": 408.2,
+    "lat": 39.123079412303596,
+    "lon": 0.15409165720206525
+  },
+  {
+    "id": "18WESCCC1-123-0T",
+    "name": "ESCCC1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 403.8,
+    "lat": 42.10774115176721,
+    "lon": -1.0996865430418263
+  },
+  {
+    "id": "18WBES3-12345-0V",
+    "name": "BESOS 3",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 401.9,
+    "lat": 41.57162639835386,
+    "lon": 2.048158281272797
+  },
+  {
+    "id": "18WESCCC3-123-0D",
+    "name": "ESCCC3",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 400.6,
+    "lat": 42.153557107688655,
+    "lon": -0.9266777768951214
+  },
+  {
+    "id": "18WESCCC2-123-0L",
+    "name": "ESCCC2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 400.1,
+    "lat": 41.37395619979767,
+    "lon": -1.1813469907672198
+  },
+  {
+    "id": "18WARCOS2-123-06",
+    "name": "ARCOS2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 397.9,
+    "lat": 37.45644176099579,
+    "lon": -6.257810069772478
+  },
+  {
+    "id": "18WSBO3-12345-01",
+    "name": "SBO3",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 396.7,
+    "lat": 41.48660318826825,
+    "lon": 2.6507874603229724
+  },
+  {
+    "id": "18W000000000F3DO",
+    "name": "UF MULA",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Regi\u00f3n de Murcia",
+    "capacity_mw": 396.5,
+    "lat": 37.871480606168475,
+    "lon": -1.46751508901126
+  },
+  {
+    "id": "18WCOL4-12345-02",
+    "name": "COLON 4",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 396.1,
+    "lat": 37.979845127794135,
+    "lon": -5.961668447588242
+  },
+  {
+    "id": "18WSROQ1-1234-06",
+    "name": "S.ROQUE 1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 393.2,
+    "lat": 36.891891294608556,
+    "lon": -6.516560349490318
+  },
+  {
+    "id": "18WARCOS1-123-0E",
+    "name": "ARCOS1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 393.0,
+    "lat": 36.91437895642079,
+    "lon": -5.820164749956292
+  },
+  {
+    "id": "18WCTJON2-123-0Z",
+    "name": "CASTEJON 2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Comunidad Foral de Navarra",
+    "capacity_mw": 392.7,
+    "lat": 43.162995237235556,
+    "lon": -1.739208039840379
+  },
+  {
+    "id": "18WPALOS2-123-0R",
+    "name": "PALOS 2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 392.6,
+    "lat": 36.85903324738235,
+    "lon": -6.115156856192155
+  },
+  {
+    "id": "18WARRU1-1234-0J",
+    "name": "UFARRU1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 392.0,
+    "lat": 37.97814565628812,
+    "lon": -5.938162785881035
+  },
+  {
+    "id": "18WSROQ2-1234-0Y",
+    "name": "S.ROQUE 2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 391.2,
+    "lat": 37.948094053136344,
+    "lon": -5.540164357318602
+  },
+  {
+    "id": "18WSTC4-12345-0I",
+    "name": "SANTURCE 4",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Pa\u00eds Vasco",
+    "capacity_mw": 388.8,
+    "lat": 42.676477226331386,
+    "lon": -2.6604338167677666
+  },
+  {
+    "id": "18W000000000HM6A",
+    "name": "NBALBOA",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 387.2,
+    "lat": 39.69865244283189,
+    "lon": -6.327835603509446
+  },
+  {
+    "id": "18WARRU2-1234-0A",
+    "name": "UFARRU2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 386.2,
+    "lat": 37.10299022794305,
+    "lon": -5.8039458417042304
+  },
+  {
+    "id": "18WSRI3-12345-0N",
+    "name": "SOTO RIB 3",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Principado de Asturias",
+    "capacity_mw": 386.0,
+    "lat": 42.89526260831506,
+    "lon": -5.937581699197074
+  },
+  {
+    "id": "18W000000000Q7E3",
+    "name": "FVORIOL",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Comunidad Valenciana",
+    "capacity_mw": 384.5,
+    "lat": 39.41436844759505,
+    "lon": 0.16717911302529603
+  },
+  {
+    "id": "18WCAMGI10-12-07",
+    "name": "CAMPGIB1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 384.3,
+    "lat": 37.833823528453834,
+    "lon": -6.257033139098691
+  },
+  {
+    "id": "18WACE3-12345-00",
+    "name": "ACECA 3",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 383.9,
+    "lat": 39.86350333566036,
+    "lon": -4.412917743363843
+  },
+  {
+    "id": "18WPALOS3-123-0J",
+    "name": "PALOS 3",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 383.6,
+    "lat": 37.87795340721379,
+    "lon": -5.528477716195879
+  },
+  {
+    "id": "18WPALOS1-123-0Z",
+    "name": "PALOS1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 380.6,
+    "lat": 37.140933749738366,
+    "lon": -5.806360606160793
+  },
+  {
+    "id": "18WACE4-12345-0R",
+    "name": "ACECA4",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 377.3,
+    "lat": 39.99356425372581,
+    "lon": -4.4438928777404385
+  },
+  {
+    "id": "18WCAMGI20--1-0D",
+    "name": "CAMPGIB2",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 375.1,
+    "lat": 37.69781296009018,
+    "lon": -5.925845163856449
+  },
+  {
+    "id": "18WTARRAG-123-03",
+    "name": "TARRAG",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 374.0,
+    "lat": 41.71945177435667,
+    "lon": 2.2098244066342128
+  },
+  {
+    "id": "18WNRC3-12345-06",
+    "name": "NARCEA 3",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Principado de Asturias",
+    "capacity_mw": 365.5,
+    "lat": 42.76208627535353,
+    "lon": -6.0703127315943926
+  },
+  {
+    "id": "18WTAPOWER-12-0V",
+    "name": "TAPOWER",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 362.8,
+    "lat": 40.808472090863,
+    "lon": 2.6883183395175405
+  },
+  {
+    "id": "18WABO1-12345-0X",
+    "name": "ABO\u00d1O 1",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Principado de Asturias",
+    "capacity_mw": 351.6,
+    "lat": 43.815866253387824,
+    "lon": -5.461301364766585
+  },
+  {
+    "id": "18WPGR4-12345-0B",
+    "name": "P.G.RODR 4",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Principado de Asturias",
+    "capacity_mw": 350.7,
+    "lat": 43.130416950483195,
+    "lon": -6.389789800206975
+  },
+  {
+    "id": "18WPGR1-12345-04",
+    "name": "P.G.RODR 1",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Principado de Asturias",
+    "capacity_mw": 350.2,
+    "lat": 43.81501151904485,
+    "lon": -5.322960665642407
+  },
+  {
+    "id": "18WPGR2-12345-0V",
+    "name": "P.G.RODR 2",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Principado de Asturias",
+    "capacity_mw": 349.8,
+    "lat": 42.864184142481456,
+    "lon": -5.876111444020063
+  },
+  {
+    "id": "18WPGR3-12345-0L",
+    "name": "P.G.RODR 3",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Principado de Asturias",
+    "capacity_mw": 349.4,
+    "lat": 42.844455022162066,
+    "lon": -5.546577401691322
+  },
+  {
+    "id": "18WALL1-12345-0K",
+    "name": "ANLLARES 1",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 342.0,
+    "lat": 41.97130131516838,
+    "lon": -5.170430242600284
+  },
+  {
+    "id": "18WTER3-12345-0U",
+    "name": "TERUEL 3",
+    "tech": "Coal (Lignite)",
+    "category": "Coal",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 339.0,
+    "lat": 41.62643885371848,
+    "lon": -0.8175356878060673
+  },
+  {
+    "id": "18WTER2-12345-03",
+    "name": "TERUEL 2",
+    "tech": "Coal (Lignite)",
+    "category": "Coal",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 337.8,
+    "lat": 41.37416795472807,
+    "lon": -0.430380350697691
+  },
+  {
+    "id": "18WGUA2-12345-0J",
+    "name": "GUARDO 2",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 336.1,
+    "lat": 41.56006552824106,
+    "lon": -5.070342153469501
+  },
+  {
+    "id": "18WTER1-12345-0D",
+    "name": "TERUEL 1",
+    "tech": "Coal (Lignite)",
+    "category": "Coal",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 335.6,
+    "lat": 41.703255306535354,
+    "lon": -0.6013827170920285
+  },
+  {
+    "id": "18WCOM5-12345-0I",
+    "name": "COMPOSTI 5",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Galicia",
+    "capacity_mw": 332.0,
+    "lat": 42.51958127606763,
+    "lon": -8.770740450438927
+  },
+  {
+    "id": "18WCOM4-12345-0S",
+    "name": "COMPOSTI 4",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Galicia",
+    "capacity_mw": 328.5,
+    "lat": 43.47237922799307,
+    "lon": -8.364946330832655
+  },
+  {
+    "id": "18WCCO3-12345-0C",
+    "name": "CTCOMPO 3",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Galicia",
+    "capacity_mw": 320.8,
+    "lat": 42.803920100697404,
+    "lon": -8.523708990757292
+  },
+  {
+    "id": "18W000000000I7A6",
+    "name": "FVORIOL",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Comunidad Valenciana",
+    "capacity_mw": 311.5,
+    "lat": 39.01510503504192,
+    "lon": -0.7077631955621312
+  },
+  {
+    "id": "18W000000000RHW7",
+    "name": "NBALBOA",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 311.2,
+    "lat": 39.28630267457695,
+    "lon": -6.26622953785132
+  },
+  {
+    "id": "18W000000000NXAJ",
+    "name": "GECAMA",
+    "tech": "Wind (Onshore)",
+    "category": "Wind",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 308.0,
+    "lat": 39.53893767911589,
+    "lon": -4.363039138658129
+  },
+  {
+    "id": "18W000000000S9TX",
+    "name": "FVTAGUS",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 302.8,
+    "lat": 38.96579170321084,
+    "lon": -6.214876451275882
+  },
+  {
+    "id": "18WPNN3-12345-0I",
+    "name": "P.NUEVO 3",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 302.1,
+    "lat": 37.05753014057339,
+    "lon": -5.486595984392646
+  },
+  {
+    "id": "18WCTN4-123456-C",
+    "name": "CTN4TG1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 301.5,
+    "lat": 40.29436248030449,
+    "lon": -4.542271180133616
+  },
+  {
+    "id": "18WPGR5-123456-J",
+    "name": "PGR5TG1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Galicia",
+    "capacity_mw": 300.9,
+    "lat": 42.563805561242795,
+    "lon": -8.342026666044465
+  },
+  {
+    "id": "18WARCOS3-123-0Z",
+    "name": "ARC3TG1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 299.8,
+    "lat": 37.03988416884453,
+    "lon": -6.4143257815299695
+  },
+  {
+    "id": "18W000000000MOY2",
+    "name": "TALASOL",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 298.5,
+    "lat": 40.00321708869681,
+    "lon": -6.286948288009659
+  },
+  {
+    "id": "18WSIL-123456-0G",
+    "name": "S.EST IIG1",
+    "tech": "Hydro (Run-of-River)",
+    "category": "Hydro",
+    "region": "Galicia",
+    "capacity_mw": 297.8,
+    "lat": 42.845405231574155,
+    "lon": -8.203256690851097
+  },
+  {
+    "id": "18WBES5-123456-T",
+    "name": "BES5 TG1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 295.6,
+    "lat": 41.75409639731998,
+    "lon": 1.8018918972342532
+  },
+  {
+    "id": "18WESC6-12345-07",
+    "name": "ESC6TG1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 294.3,
+    "lat": 41.17241697707459,
+    "lon": -0.960038581112347
+  },
+  {
+    "id": "18WALG3-12345--K",
+    "name": "ALG3TG1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 285.3,
+    "lat": 37.29109434762391,
+    "lon": -6.01267039835599
+  },
+  {
+    "id": "18WECT3-123456-N",
+    "name": "ECT3TG1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 281.1,
+    "lat": 41.65999101935182,
+    "lon": 2.3814374567519616
+  },
+  {
+    "id": "18WBAHIAB-123-0X",
+    "name": "BAHITG1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Pa\u00eds Vasco",
+    "capacity_mw": 280.0,
+    "lat": 43.84369825363916,
+    "lon": -3.4071985546176493
+  },
+  {
+    "id": "18WAMBIETA-12-0S",
+    "name": "AMBITG1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 275.8,
+    "lat": 41.53924553852273,
+    "lon": -1.0701368735260441
+  },
+  {
+    "id": "18WCTN3-12345-04",
+    "name": "CTN3TG1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 272.3,
+    "lat": 40.296807043623346,
+    "lon": -4.328912399295658
+  },
+  {
+    "id": "18W000000000RHZ1",
+    "name": "FVCEDIL",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 266.8,
+    "lat": 39.108850690128975,
+    "lon": -6.433863742600242
+  },
+  {
+    "id": "18WCTNU-12345-0U",
+    "name": "CTNUTG1",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 264.8,
+    "lat": 39.76905796780129,
+    "lon": -4.293045826399672
+  },
+  {
+    "id": "18WELC1-12345-0U",
+    "name": "ELCOGAS",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 264.1,
+    "lat": 39.56256773745852,
+    "lon": -3.5193812808687848
+  },
+  {
+    "id": "18WFFWMARK-123-7",
+    "name": "TALASOL",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 261.2,
+    "lat": 39.41235689406415,
+    "lon": -5.938581074285803
+  },
+  {
+    "id": "18WROB1-12345-0L",
+    "name": "ROBLA 1",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 254.8,
+    "lat": 41.71269037493981,
+    "lon": -5.263794004570142
+  },
+  {
+    "id": "18W000000000TGOI",
+    "name": "FCAPARA",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 246.7,
+    "lat": 40.07973896209528,
+    "lon": -5.968966897904058
+  },
+  {
+    "id": "18W000000000S9UV",
+    "name": "VELILLA",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 245.1,
+    "lat": 42.2150955087417,
+    "lon": -4.212859620390247
+  },
+  {
+    "id": "18W000000000THNH",
+    "name": "FVCRODR",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 236.3,
+    "lat": 39.89903488129717,
+    "lon": -6.772626667275303
+  },
+  {
+    "id": "18W000000000RHY3",
+    "name": "FVORIOL",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Comunidad Valenciana",
+    "capacity_mw": 235.7,
+    "lat": 39.452669350540866,
+    "lon": -0.720903240960982
+  },
+  {
+    "id": "18WDUER-12345-0N",
+    "name": "ALDEA I G1",
+    "tech": "Hydro (Run-of-River)",
+    "category": "Hydro",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 234.2,
+    "lat": 41.53354835105934,
+    "lon": -5.254137520033385
+  },
+  {
+    "id": "18WMUELP-12345-D",
+    "name": "MUELA 4G",
+    "tech": "Hydro (Run-of-River)",
+    "category": "Hydro",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 220.6,
+    "lat": 41.5108677427723,
+    "lon": -0.29492938746432895
+  },
+  {
+    "id": "18WSRI2-12345-0X",
+    "name": "SOTO RIB 2",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Principado de Asturias",
+    "capacity_mw": 220.1,
+    "lat": 43.079643669806586,
+    "lon": -5.518415277661717
+  },
+  {
+    "id": "18WMUEL-12345-03",
+    "name": "MUELA 1G",
+    "tech": "Hydro (Run-of-River)",
+    "category": "Hydro",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 217.7,
+    "lat": 41.60211004080698,
+    "lon": -0.9696910168118045
+  },
+  {
+    "id": "18W000000000QZQ6",
+    "name": "PV PUERTOR",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 216.4,
+    "lat": 40.41158116903161,
+    "lon": -3.4327927726087437
+  },
+  {
+    "id": "18W000000000I2K1",
+    "name": "PV PUERTOR",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 213.7,
+    "lat": 39.92972198808674,
+    "lon": -3.765210069644409
+  },
+  {
+    "id": "18WDUEB-12345-0Z",
+    "name": "ALDEA IIB1",
+    "tech": "Hydro (Pumped Storage)",
+    "category": "Hydro",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 213.5,
+    "lat": 41.23805619032888,
+    "lon": -4.968450609406523
+  },
+  {
+    "id": "18WMUEB-12345-0T",
+    "name": "MUELA 1B",
+    "tech": "Hydro (Pumped Storage)",
+    "category": "Hydro",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 213.2,
+    "lat": 42.21855123796299,
+    "lon": -0.7822836510204925
+  },
+  {
+    "id": "18W000000000L44F",
+    "name": "VALDESOLAR",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 209.9,
+    "lat": 39.53123424164913,
+    "lon": -6.074629327545123
+  },
+  {
+    "id": "18WMUEBP-12345-2",
+    "name": "MUELA 4B",
+    "tech": "Hydro (Pumped Storage)",
+    "category": "Hydro",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 208.2,
+    "lat": 41.12469832748898,
+    "lon": -0.7762868866492345
+  },
+  {
+    "id": "18W000000000O4HE",
+    "name": "UF SABINAR",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 194.4,
+    "lat": 37.38622045950342,
+    "lon": -5.549836129542057
+  },
+  {
+    "id": "18W000000000T3LQ",
+    "name": "GST177",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 193.6,
+    "lat": 39.06951927352738,
+    "lon": -5.81926531607066
+  },
+  {
+    "id": "18W000000000TRIY",
+    "name": "ARMEP",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 182.6,
+    "lat": 38.97673375828871,
+    "lon": -6.749210046823133
+  },
+  {
+    "id": "18W000000000C7QZ",
+    "name": "PE TICO",
+    "tech": "Wind (Onshore)",
+    "category": "Wind",
+    "region": "Galicia",
+    "capacity_mw": 174.0,
+    "lat": 42.992242127740035,
+    "lon": -8.334544935675092
+  },
+  {
+    "id": "18W000000000N00R",
+    "name": "TALAYU",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 169.8,
+    "lat": 39.16284467400112,
+    "lon": -6.8283360632634515
+  },
+  {
+    "id": "18W000000000BR8F",
+    "name": "FV1014",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 154.9,
+    "lat": 39.94894477695533,
+    "lon": -6.6767415826536505
+  },
+  {
+    "id": "18W000000000J1G8",
+    "name": "BVNIDA1",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 152.2,
+    "lat": 39.594022984240134,
+    "lon": -6.2289421876014766
+  },
+  {
+    "id": "18W000000000LG2K",
+    "name": "FV1014",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 152.2,
+    "lat": 39.38366989840305,
+    "lon": -6.2717932528505305
+  },
+  {
+    "id": "18WFVEPLUS-123-Q",
+    "name": "LA ISLA",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 152.1,
+    "lat": 37.41013925863835,
+    "lon": -5.451452490716287
+  },
+  {
+    "id": "18W000000000RX5D",
+    "name": "FGST151",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 150.4,
+    "lat": 39.12571103930824,
+    "lon": -6.112769839052703
+  },
+  {
+    "id": "18W000000000RX79",
+    "name": "FGST152",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 150.0,
+    "lat": 39.16702314313902,
+    "lon": -6.4972569838504945
+  },
+  {
+    "id": "18WGUA1-12345-0T",
+    "name": "GUARDO 1",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 143.3,
+    "lat": 41.85832826755196,
+    "lon": -4.964503504241486
+  },
+  {
+    "id": "18W000000000AI3J",
+    "name": "RODRI",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 141.9,
+    "lat": 39.64221263552623,
+    "lon": -3.725062609102718
+  },
+  {
+    "id": "18WNRC2-12345-0G",
+    "name": "NARCEA 2",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Principado de Asturias",
+    "capacity_mw": 141.6,
+    "lat": 42.84845173739179,
+    "lon": -5.909357372857697
+  },
+  {
+    "id": "18WJUCA-12345-0Q",
+    "name": "CORTES 1",
+    "tech": "Hydro (Run-of-River)",
+    "category": "Hydro",
+    "region": "Comunidad Valenciana",
+    "capacity_mw": 140.2,
+    "lat": 40.06804532902533,
+    "lon": 0.2179157374261132
+  },
+  {
+    "id": "18W000000000R310",
+    "name": "FV1014",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 133.6,
+    "lat": 38.96851286531956,
+    "lon": -6.716414825279552
+  },
+  {
+    "id": "18W000000000SNK9",
+    "name": "UF SERBAL",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 133.2,
+    "lat": 39.19884049770049,
+    "lon": -5.85228874640755
+  },
+  {
+    "id": "18W000000000NX7P",
+    "name": "OMLEDILLA",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 131.6,
+    "lat": 40.319837008423725,
+    "lon": -3.572175709018549
+  },
+  {
+    "id": "18W000000000T3JU",
+    "name": "GST176",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 130.0,
+    "lat": 39.32403250648667,
+    "lon": -6.782903801171322
+  },
+  {
+    "id": "18W000000000RCL7",
+    "name": "PE TICO",
+    "tech": "Wind (Onshore)",
+    "category": "Wind",
+    "region": "Galicia",
+    "capacity_mw": 125.3,
+    "lat": 43.27869394556777,
+    "lon": -8.300552089895156
+  },
+  {
+    "id": "18W000000000S8ET",
+    "name": "UFGARNACHA",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 116.8,
+    "lat": 37.516813318871144,
+    "lon": -5.388420323642195
+  },
+  {
+    "id": "18W000000000RATY",
+    "name": "FCENTUR",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 116.4,
+    "lat": 39.665371581252884,
+    "lon": -6.962812271417411
+  },
+  {
+    "id": "18W000000000QIOO",
+    "name": "FV1076",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 114.4,
+    "lat": 39.861124962138554,
+    "lon": -6.612945497360027
+  },
+  {
+    "id": "18W000000000SNID",
+    "name": "UF CASTA\u00d1O",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 113.0,
+    "lat": 39.67666645795929,
+    "lon": -5.845483995287475
+  },
+  {
+    "id": "18WTJEB-12345-0X",
+    "name": "TAJOENC 1B",
+    "tech": "Hydro (Pumped Storage)",
+    "category": "Hydro",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 110.2,
+    "lat": 39.42394933727204,
+    "lon": -4.4887855954970775
+  },
+  {
+    "id": "18W000000000TGB7",
+    "name": "TERRER",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 108.2,
+    "lat": 41.184543173251306,
+    "lon": -0.8134316309382209
+  },
+  {
+    "id": "18WSLTB-12345-05",
+    "name": "SALLENT 1B",
+    "tech": "Hydro (Pumped Storage)",
+    "category": "Hydro",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 105.4,
+    "lat": 41.11191785477778,
+    "lon": 2.2991957924362687
+  },
+  {
+    "id": "18W000000000RHX5",
+    "name": "FVARENA",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 104.8,
+    "lat": 39.74173462456656,
+    "lon": -6.727883225207057
+  },
+  {
+    "id": "18WSLTG-12345-0T",
+    "name": "SALLENT 1G",
+    "tech": "Hydro (Run-of-River)",
+    "category": "Hydro",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 103.3,
+    "lat": 41.546185550662095,
+    "lon": 1.8901806819564912
+  },
+  {
+    "id": "18W000000000H6OM",
+    "name": "PSFGUILLEN",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Andaluc\u00eda",
+    "capacity_mw": 103.2,
+    "lat": 37.369038222579256,
+    "lon": -5.486696210704812
+  },
+  {
+    "id": "18W000000000RI0V",
+    "name": "BUNIEL",
+    "tech": "Wind (Onshore)",
+    "category": "Wind",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 102.0,
+    "lat": 42.067624455953826,
+    "lon": -5.21374183874472
+  },
+  {
+    "id": "18W000000000R3SK",
+    "name": "PINGUIN",
+    "tech": "Wind (Onshore)",
+    "category": "Wind",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 100.8,
+    "lat": 41.564390927076474,
+    "lon": -1.145283731233298
+  },
+  {
+    "id": "18W000000000N3TY",
+    "name": "PECUEVA",
+    "tech": "Wind (Onshore)",
+    "category": "Wind",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 100.1,
+    "lat": 41.056554826905334,
+    "lon": -4.399156932376448
+  },
+  {
+    "id": "18W000000000RX3H",
+    "name": "FGST150",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 100.0,
+    "lat": 39.64513605276166,
+    "lon": -6.657853685078782
+  },
+  {
+    "id": "18W000000000U0Y5",
+    "name": "PEFLOR",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 97.8,
+    "lat": 41.94557709001752,
+    "lon": -0.8152834946483305
+  },
+  {
+    "id": "18WFEGPE2-1234-8",
+    "name": "FCENTUR",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 86.4,
+    "lat": 39.39382430277682,
+    "lon": -6.960596360469992
+  },
+  {
+    "id": "18W000000000TRPK",
+    "name": "FAENAMA",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Extremadura",
+    "capacity_mw": 77.4,
+    "lat": 38.97089263208852,
+    "lon": -5.912472328039828
+  },
+  {
+    "id": "18W000000000TCRO",
+    "name": "PEFLOR",
+    "tech": "Solar (PV)",
+    "category": "Solar",
+    "region": "Arag\u00f3n",
+    "capacity_mw": 72.9,
+    "lat": 42.140814285871876,
+    "lon": -0.8225916529533732
+  },
+  {
+    "id": "18WGAR1-12345-08",
+    "name": "S.M.GARO\u00d1A",
+    "tech": "Nuclear",
+    "category": "Nuclear",
+    "region": "Castilla y Le\u00f3n",
+    "capacity_mw": 1.0,
+    "lat": 42.05381402386322,
+    "lon": -4.625488520212247
+  },
+  {
+    "id": "18WCCO2-12345-0M",
+    "name": "CTCOMPO 2",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Galicia",
+    "capacity_mw": 0.2,
+    "lat": 42.45591254268098,
+    "lon": -8.991865376861433
+  },
+  {
+    "id": "18WPLL1-12345-0A",
+    "name": "PTOLLANO",
+    "tech": "Coal (Hard)",
+    "category": "Coal",
+    "region": "Castilla-La Mancha",
+    "capacity_mw": 0.0,
+    "lat": 39.63271001991616,
+    "lon": -3.5485222135088925
+  },
+  {
+    "id": "18WFOI1-12345-0Q",
+    "name": "FOIX",
+    "tech": "Gas (CCGT)",
+    "category": "Gas",
+    "region": "Catalu\u00f1a",
+    "capacity_mw": 0.0,
+    "lat": 41.74044676586565,
+    "lon": 2.6062430984010834
+  }
+]

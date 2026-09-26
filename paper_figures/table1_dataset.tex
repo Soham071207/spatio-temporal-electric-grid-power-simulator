@@ -1,0 +1,23 @@
+\begin{table}[h]
+\centering
+\caption{Dataset Statistics}
+\label{tab:dataset}
+\begin{tabular}{@{}ll@{}}\toprule
+Attribute & Value \\ \midrule
+Data period & 2015-01-01 to 2026-09-01 \\
+Temporal resolution & Hourly (1h) \\
+Forecast target & Regional electricity demand (MW) \\
+Forecast horizon & 24 hours ahead (multi-step) \\
+Number of nodes (regions) & 19 (Spain CCAA + Ceuta/Melilla) \\
+Total hourly samples (training) & ~87,600 \\
+Total hourly samples (test) & ~8,760 (2025–2026) \\
+Demand data source & Red Eléctrica (REE) e-sios API \\
+Weather data source & Open-Meteo Historical Archive \\
+Price data source & ENTSO-E Day-Ahead Prices \\
+Input features (channels) & 16 (demand, 4× weather, pop-density, industry, price, 6× cyclic, is_holiday, is_weekend) \\
+Train split & Jan 2015 – Dec 2022 (≈80%) \\
+Val split & Jan 2023 – Jun 2024 (≈10%) \\
+Test split & Jul 2024 – Sep 2026 (≈10%) \\
+\bottomrule
+\end{tabular}
+\end{table}

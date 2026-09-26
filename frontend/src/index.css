@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-black: #050505;
+  --color-chrome: #e2e2e2;
+  --color-smoke: #888888;
+  --color-glass-dark: rgba(5, 5, 5, 0.6);
+  --color-glass-light: rgba(255, 255, 255, 0.05);
+  
+  --font-sans: "Geist", "Inter", sans-serif;
+  
+  --radius-xl: 1.5rem;
+  --radius-2xl: 2rem;
+}
+
+@layer base {
+  body {
+    @apply bg-black text-chrome font-sans antialiased min-h-[100dvh] overflow-x-hidden;
+    background-image: radial-gradient(circle at top, rgba(255,255,255,0.05) 0%, transparent 40%);
+  }
+}
+
+@layer components {
+  .card-shell {
+    @apply relative rounded-[2rem] bg-white/5 border border-white/10 p-2 shadow-2xl;
+  }
+  .card-inner {
+    @apply relative h-full w-full rounded-[calc(2rem-0.5rem)] bg-black/80 backdrop-blur-2xl shadow-[inset_0_1px_1px_rgba(255,255,255,0.15)] overflow-hidden;
+  }
+}
