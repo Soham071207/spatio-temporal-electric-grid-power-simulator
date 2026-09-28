@@ -1,0 +1,49 @@
+# Core ML / Deep Learning
+torch==2.6.0
+torch-geometric==2.8.0.post1
+numpy==2.4.0
+scikit-learn==1.8.0
+scipy==1.17.1
+
+# Data handling
+pandas==3.0.2
+pyarrow==24.0.0
+openpyxl==3.1.5
+
+# Graph / GIS
+networkx==3.6.1
+shapely==2.1.2
+geopy==2.5.0
+
+# Forecasting / Stats
+statsmodels==0.14.6
+lightgbm==4.6.0
+xgboost==3.3.0
+holidays==0.103
+exchange_calendars==4.13.2
+
+# API Backend
+fastapi==0.141.1
+uvicorn==0.46.0
+pydantic==2.13.4
+pydantic-settings==2.15.0
+python-multipart==0.0.27
+starlette==1.0.0
+structlog==26.1.0
+prometheus_client==0.26.0
+
+# Data download
+entsoe-py==0.8.0
+requests==2.33.1
+httpx==0.28.1
+
+# Visualisation
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Utilities
+python-dotenv==1.2.2
+tqdm==4.67.3
+joblib==1.5.3
+PyYAML==6.0.3
+cloudpickle==3.1.2

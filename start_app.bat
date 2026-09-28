@@ -1,0 +1,6 @@
+@echo off
+echo Starting Backend...
+start "Backend" cmd /k "uvicorn backend.main:app --reload --port 8000"
+
+echo Starting Frontend...
+start "Frontend" cmd /k "cd frontend && npm run dev"

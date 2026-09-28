@@ -1,0 +1,64 @@
+SPAIN GRID GNN DIGITAL TWIN PROJECT - OVERVIEW
+==============================================
+
+This project is a sophisticated AI Digital Twin for the Spanish Electricity Grid. Its primary purpose is to forecast regional electricity demand (MW) across the 19 autonomous communities and cities in Spain.
+
+1. CORE ARCHITECTURE
+--------------------
+The forecasting pipeline is a Two-Stage Hybrid Architecture:
+
+STAGE 1: Deep Learning (GNN)
+- File: `forecasting/gnn.py`
+- Model: `GATForecaster`
+- Architecture: A Graph Attention Network (GATv2) layered over an LSTM. 
+- Goal: Captures spatial dependencies between adjacent Spanish regions (e.g., weather fronts moving from Portugal through Extremadura) and temporal sequence dependencies (historical 24-hour demand curves).
+- Note: There are typically two variants of this model trained: one general model ("asymmetric") and one focused heavily on holiday prediction ("holiday").
+
+STAGE 2: Machine Learning Corrector
+- File: `forecasting/hybrid_corrector.py`
+- Model: `HybridCorrector` (Uses scikit-learn `HistGradientBoostingRegressor`)
+- Goal: The GNN struggles with extreme anomalies (holidays, weekends, heavy industrial shutdowns). The ML corrector takes the raw 24-hour GNN prediction + tabular features and learns exactly when and how much the GNN over/under-predicts, acting as a final correction filter.
+
+2. DATA & FEATURES (16 Channels)
+--------------------------------
+The model consumes 15-channel time-series data via `forecasting/dataset.py`:
+
+Dynamic Features (Scaled):
+0. `demand_mwh` - Regional historical demand (from REE / E-sios API).
+1. `temperature_2m` - Weather data (from Open-Meteo).
+2. `relative_humidity_2m`
+3. `wind_speed_10m`
+4. `shortwave_radiation`
+7. `wholesale_price` - ENTSO-E Day-Ahead Prices (EUR/MWh) to capture industrial throttling.
+
+Static Geographic Features (Scaled):
+5. `pop_density` - Population density of the region.
+6. `industry_index` - 0-1 scale indicating heavy manufacturing presence.
+
+Cyclical/Binary Features (Unscaled):
+8-13. Sin/Cos encodings for Hour, Day of Week, and Month.
+14. `is_holiday` - Binary flag (0 or 1) generated dynamically using the `holidays` python library, tracking both national and regional Spanish holidays.
+15. `is_weekend` - Binary flag (0 or 1) indicating if the day is a Saturday or Sunday, crucial for capturing weekend demand drops.
+
+*Note: The `NodeAwareScaler` handles normalization. It is critical that cyclical/binary features (8-15) are NEVER scaled, or their cyclic/binary nature is destroyed.*
+
+3. PROJECT STRUCTURE
+--------------------
+- `/forecasting/`: Core ML/DL logic. `dataset.py` (data loading), `gnn.py` (model), `train_optimised.py` (primary training script), `infer_2026.py` (inference).
+- `/digital_twin/`: Grid simulation modules (redispatch, power flow).
+- `/backend/`: FastAPI server (`main.py`) serving predictions to the frontend.
+- `/frontend/`: React + Vite frontend for visualization.
+- `/*_download.py`: Scripts hitting ENTSO-E and REE E-sios APIs to build the historical datasets.
+
+4. RECENT PIPELINE UPGRADES (Important Context)
+-----------------------------------------------
+The architecture was recently upgraded from 15 to 16 channels to fix a critical blindspot regarding weekend demand drops.
+- We added an explicit `is_weekend` binary feature (index 15) to help the GNN differentiate weekends from normal days.
+- Added a third GAT model specifically trained for weekends (`best_gat_forecaster_weekend.pth`).
+- Fixed a bug in the `HybridCorrector` safety clamp, allowing it to heavily pull down forecasts on weekends and holidays (max_delta=0.60 vs 0.25).
+- Upgraded the dataset output to return `(x, y_true, y_holiday, y_weekend)` and fixed backend tuple unpacking so the frontend correctly renders without crashing.
+- All inference scripts (`infer.py`, `check_errors.py`, `test_2026_scenarios.py`) are now upgraded to pass `in_channels = 16`.
+
+5. HOW TO TRAIN
+---------------
+Run `python forecasting/train_optimised.py`. This uses the `AdaptiveGridLoss` (which penalizes under-predictions heavily) and a `WeightedRandomSampler` that over-samples holidays by 5x to force the model to learn anomalous days.
